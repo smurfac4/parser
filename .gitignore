@@ -1,0 +1,10 @@
+# База данных SQLite
+base.db
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Окружение 
+venv/
+.venv/
